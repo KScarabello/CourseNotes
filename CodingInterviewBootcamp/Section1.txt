@@ -1,0 +1,24 @@
+Timeline of job seeking timeline...
+
+Contact phase/Interview phase
+
+Contact: the phase where you make contact with a company
+    -via recruiter/LinkedIn/submitting a resume
+
+Interview phase:
+    -phone screens/take home projects/interviews
+
+What is the average company looking to evaluate?
+    According to Grider:
+        -Contact phase -general idea of who you are? Work experience, side projects, do you know anyone at the company?
+        -Interview phase - culture fit, whether you are effective coder
+
+One make or break quality is coding interview questions - the single most important quality you will be evaluated on. 
+    ** overrides every other quality **
+
+This is usually done with take-home assignments, pair-programming with an interviewer, and whiteboarding,
+    -whiteboarding is common among large companies
+
+How do you get better at whiteboarding?
+    PRACTICE!!!     
+    
