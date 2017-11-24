@@ -21,4 +21,7 @@ This is usually done with take-home assignments, pair-programming with an interv
 
 How do you get better at whiteboarding?
     PRACTICE!!!     
+
+Fibonacci Series - very few candidate have been able to solve a recursive solution
+    -most people have seen the question before and are able to resolve it...
     
