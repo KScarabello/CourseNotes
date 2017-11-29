@@ -22,3 +22,14 @@ Groups in SVG:
 
     <g id="men">
     </g>
+
+<defs tag>:
+
+<defs> tags are used to store information
+   that is not to be displayed in the image
+   -it's for referencing within the SVG
+
+  Clippath - is a way to create a frame
+     that hides certain pieces of the SVG image
+     -would go in the <defs> tags 
+
