@@ -11,4 +11,18 @@ Demonstrations of an SVG vs. a PNG occurs
 SVG images are in XML - which appears like HTML
 and can be imbedded into any HTML page
 
+<div class="container>
+    
+    <svg height="600" width="600">
+        //<viewport>
+        
+        <rect x="10" y="10" height="50" width="75"
+            fill="limegreen" />
 
+
+    </svg>
+
+</div>
+
+Coded along with this portion of the instruction at
+https://codepen.io/kscarabello/pen/RjeJxO
